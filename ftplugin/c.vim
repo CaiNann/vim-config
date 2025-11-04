@@ -6,5 +6,5 @@ setlocal cindent
 setlocal autoindent
 setlocal textwidth=80
 setlocal colorcolumn=81
-setlocal number
+setlocal relativenumber
 inoremap { {<CR>}<Esc>O
